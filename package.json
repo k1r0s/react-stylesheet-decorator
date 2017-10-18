@@ -1,0 +1,25 @@
+{
+  "name": "react-stylesheet-decorator",
+  "version": "0.0.1",
+  "description": "easily style react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k1r0s/react-stylesheet-decorator.git"
+  },
+  "keywords": [],
+  "author": "k1r0s",
+  "license": "MIT",
+  "dependencies": {
+    "decamelize": "^1.2.0",
+    "kaop-ts": "^1.5.0",
+    "react": "^16.0.0",
+    "scope-css": "^1.0.4"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}

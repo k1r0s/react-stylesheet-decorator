@@ -8,6 +8,10 @@ This decorator supports all CSS capabilities defined here: https://www.npmjs.com
 
 ### Getting started
 
+## Bower
+just kidding! XD
+
+## NPM
 install `npm install react-stylesheet-decorator --save`
 
 usage:

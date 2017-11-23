@@ -1,6 +1,6 @@
 This decorator allows to easily style React components through adding a scoped stylesheet inside that component and defined styles only get applied to it and its descendants.
 
-Basically it allows to style in preact like Angular or [Vue does by adding a scoped stylesheet](https://vue-loader.vuejs.org/en/features/scoped-css.html)
+Basically it allows to style in Reactjs like Angular or [Vue does by adding a scoped stylesheet](https://vue-loader.vuejs.org/en/features/scoped-css.html)
 
 ### Capabilities
 

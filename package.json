@@ -1,6 +1,6 @@
 {
   "name": "react-stylesheet-decorator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "easily style react components",
   "main": "index.js",
   "scripts": {

@@ -20,7 +20,7 @@ afterMethod((meta) => {
     meta.scope.__stylesheetVNode = React.createElement("style", { key: "scoped" }, styleContent);
   }
 
-  const newProps = Object.assign(meta.result.props, { key: "component" });
+  const newProps = Object.assign({}, meta.result.props, { key: "component" });
   const fakeNode = React.createElement(meta.result.type, newProps, meta.result.props.children);
 
   // wrap rendered vnode with a parent vnode

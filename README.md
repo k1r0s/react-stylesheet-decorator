@@ -2,6 +2,8 @@ DEPRECATED :fire:
 
 https://github.com/k1r0s/preact-stylesheet-decorator provides support for React as well.
 
+---
+
 This decorator allows to easily style React components through adding a scoped stylesheet inside that component and defined styles only get applied to it and its descendants.
 
 Basically it allows to style in Reactjs like Angular or [Vue does by adding a scoped stylesheet](https://vue-loader.vuejs.org/en/features/scoped-css.html)
